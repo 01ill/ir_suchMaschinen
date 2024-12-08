@@ -1,0 +1,1 @@
+{"type": "scorer_cache", "format": "sqlite3", "package_hint": "pyterrier_caching", "group": "query", "key": "docno", "value": "score"}
