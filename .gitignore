@@ -1,4 +1,7 @@
 .tira
 data/index/
+data/index_new/
+data/index_test/
 data/runs/*.txt
 data/runs/*.gz
+.DS_Store
